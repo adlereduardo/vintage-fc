@@ -60,9 +60,10 @@
         margin-left: 0;
     }
     
-    .logo img {
+     .logo img {
         margin: 0;
         padding: 0;
+        width: 25px;
     }
     
     .logo h1 {
