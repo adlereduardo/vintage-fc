@@ -175,6 +175,7 @@ footer {
     .logo-footer {
         justify-content: center;
         margin-right: 20px;
+        scale: 0.8;
     }
     
     .redes-sociais {
