@@ -10,6 +10,10 @@
 }
 
 @media screen and (max-width: 840px) {
+
+    body::-webkit-scrollbar {
+        display: none;
+    }
     
     .models-area {
         grid-template-columns: repeat(1, 1fr);
