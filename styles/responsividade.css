@@ -63,7 +63,7 @@
      .logo img {
         margin: 0;
         padding: 0;
-        width: 25px;
+        max-width: 25px;
     }
     
     .logo h1 {
